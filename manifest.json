@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Kindroid Continue Conversation Clicker",
+  "version": "1.2",
+  "description": "Clicks the Continue conversation button when it appears.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://kindroid.ai/*",
+        "https://*.kindroid.ai/*",
+        "https://www.kindroid.ai/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
