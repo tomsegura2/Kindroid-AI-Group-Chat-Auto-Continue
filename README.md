@@ -1,5 +1,5 @@
 # Kindroid Group Chat Continue Conversation Clicker
-
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=tomsegura2_Kindroid-AI-Group-Chat-Auto-Continue)
 An unofficial Chrome extension designed to streamline your group chat experience on Kindroid AI by automating the "Continue conversation" button.
 
 ---
